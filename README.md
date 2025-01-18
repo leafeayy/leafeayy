@@ -49,12 +49,12 @@ Random things about me:
 </p>
 
 <h2 align="center"> 
-Random things about me:
+<b>Random things about me:</b>
 <ul>
         <li>I am fairly good at rythm games</li>
         <li>I can count to 10</li>
         <li>Basically every gaming console are modded/jailbroken</li>
-        <li>I look all tough and shit butt if you say a slur to me I'll probably cry</li>
+        <li>I look all tough and shit but if you say a slur to me I'll probably cry</li>
 
 </ul>
   
