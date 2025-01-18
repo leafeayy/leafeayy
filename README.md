@@ -24,11 +24,11 @@
 
 <h2 align="center"> 
 Random things about me:
-<i align="center">
--I am fairly great at rythm games
+<p align="center">
+
+  -I am fairly great at rythm games
 -Can count to 10 
 -Basically every gaming console I own is modded/jailbreaked
 -I look all though and shit but if you say a slur to me I'll probably cry
-  
-</i>
-</h2>
+
+</p>
