@@ -4,9 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leafeayy&label=Profile%20views&color=0e75b6&style=flat" alt="leafeayy" /> </p>
 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk?si=5e33a02195ea4224)
-
-
+[![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31pzjucawtkyqyhcj543siashuku)<br><br>
+![Discord Presence](https://lanyard.cnrad.dev/api/659022591071223819)](https://discord.com/users/590169471877120020)
 
 
 
