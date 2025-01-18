@@ -5,7 +5,7 @@
 
 <div id="header" align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:590169471877120020)](https://discord.com/users/:590169471877120020)
+[![Discord Presence](https://lanyard.cnrad.dev/api/590169471877120020)](https://discord.com/users/590169471877120020)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
