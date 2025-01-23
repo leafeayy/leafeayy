@@ -18,7 +18,7 @@
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,discord,github,ae,figma,ai,ps,linux,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,javascript,nodejs,discord,github,ae,figma,ai,ps,linux,windows,apple" />
   </a>
 </p>
 
