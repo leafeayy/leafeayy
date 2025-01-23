@@ -27,7 +27,7 @@
 <ul>
         <li>I am fairly good at rythm games</li>
         <li>I can count to 10</li>
-        <li>Basically every gaming console are modded/jailbroken</li>
+        <li>Basically every gaming console I own are modded/jailbroken</li>
         <li>I look all tough and shit but if you say a slur to me I'll probably cry</li>
 
 </ul>
