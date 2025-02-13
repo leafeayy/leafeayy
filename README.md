@@ -15,7 +15,7 @@
 
 
 
-<h2 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,html,javascript,nodejs,discord,github,ae,figma,ai,ps,linux,windows,apple" />
@@ -23,7 +23,7 @@
 </p>
 
 <h2 align="center"> 
-<b>Random things about me:</b>
+<h3>Random things about me:</h3>
 <ul>
         <li>I am fairly good at rythm games</li>
         <li>I can count to 10</li>
