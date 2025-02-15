@@ -10,7 +10,7 @@
 <div id="header" align="center">
 
 
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pzjucawtkyqyhcj543siashuku&width={width})
 [![Discord Presence](https://lanyard.cnrad.dev/api/590169471877120020)](https://discord.com/users/590169471877120020)
 
 
