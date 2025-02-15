@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I am Leafeay</h1>
+<h1 align="center">Hello! I am leafeay</h1>
 <h2 align="center">Graphic designer and beginner C++, Python and HTML programmer</h2>
 
 
@@ -12,7 +12,6 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31pzjucawtkyqyhcj543siashuku)
 [![Discord Presence](https://lanyard.cnrad.dev/api/590169471877120020)](https://discord.com/users/590169471877120020)
-
 
 
 <h2 align="center">Languages and Tools:</h2>
