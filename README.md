@@ -31,6 +31,8 @@
         <li>I look all tough and shit but if you say a slur to me I'll probably cry</li>
 
 </ul>
+
+<img src="https://raw.githubusercontent.com/itzznicholas/itzznicholas/output/snake.svg" alt="Snake:)" />
   
 </i>
 </h2>
