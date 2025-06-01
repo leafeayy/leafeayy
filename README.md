@@ -8,7 +8,9 @@
 
 
 <div id="header" align="center">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/590169471877120020)](https://discord.com/users/590169471877120020)
+
 
 
 <h2 align="center">Languages and Tools:</h2>
